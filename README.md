@@ -8,7 +8,7 @@
 
 **Place**:  Mingde Building B201-1
 
-**Speaker**: 张旭成 (清华大学丘成桐数学中心)
+**Speaker**: ZHANG Xucheng (Yau Mathematical Sciences Center, Tsinghua University)
 
 **Title**:  *A stacky approach to identifying the stability condition*
 
