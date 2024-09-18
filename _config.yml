@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+
+source: ./docs
+destination: ./docs/_site
