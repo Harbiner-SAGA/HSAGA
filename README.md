@@ -1,10 +1,12 @@
 ## Harbin Seminar on Arithmetic and Algebraic Geometry
 
+Organizing institute: [IASM](https://im.hit.edu.cn/) of HIT
+
 -----------------------------------
 
 **Date**: 2024.09.12  
 
-**Time**:  14:30-15:30 (Beijing Time)   
+**Time**:  14:30-15:30 (北京时间)   
 
 **Place**:  明德楼 B201-1 报告厅
 
