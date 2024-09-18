@@ -6,9 +6,9 @@
 
 **Time**:  14:30-15:30 (Beijing Time)   
 
-**Place**:  Mingde Building B201-1
+**Place**:  明德楼 B201-1 报告厅
 
-**Speaker**: ZHANG Xucheng (Yau Mathematical Sciences Center, Tsinghua University)
+**Speaker**: 张旭成 (清华大学丘成桐数学中心)
 
 **Title**:  *A stacky approach to identifying the stability condition*
 
