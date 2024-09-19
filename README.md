@@ -1,6 +1,6 @@
 ## Harbin Seminar on Arithmetic and Algebraic Geometry
 
-组织机构(Organizing institute): [哈工大数学研究院](https://im.hit.edu.cn/)([IASM](https://im.hit.edu.cn/en) of HIT)
+组织机构 (Organizing institute): [哈工大数学研究院](https://im.hit.edu.cn/) ([IASM](https://im.hit.edu.cn/en) of HIT)
 
 -----------------------------------
 
