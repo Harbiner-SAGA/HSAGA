@@ -1,5 +1,5 @@
 ## Harbin Seminar on Arithmetic and Algebraic Geometry
-<p style="text-align: justify;">
+
 组织机构 (Organizing institute): [哈工大数学研究院](https://im.hit.edu.cn/) ([IASM](https://im.hit.edu.cn/en) of HIT)
 
 -----------------------------------
@@ -86,4 +86,4 @@
 **Title**:  *A stacky approach to identifying the stability condition*
 
 **Abstract**:  *For any reductive group we find a stacky interpretation of the stability condition for principal bundles over a curve: it is the unique maximal open locus that admits a schematic moduli space. Some applications and further progress will be discussed. This is a joint work with Dario Weissmann and Andres Fernandez Herrero.*
-</p>
+
