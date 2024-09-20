@@ -24,6 +24,7 @@
 <strong>Abstract</strong>: <em>We extend the dictionary between Fontaine’s rings and p-adic functional analysis. As an application, we give a refinement of the p-adic local Langlands correspondence for principal series representations of GL_2(Q_p). This is joint work with Pierre Colmez.</em>
 </p>
 
+
 **Time**:  11:00-12:00
 
 **Speaker**: 金方舟（同济大学）
@@ -33,6 +34,7 @@
 <p style="text-align: justify;">
 <strong>Abstract</strong>: <em>We define and study several characteristic classes in motivic homotopy theory, and use them to deduce some conductor formulas. This is a joint work with P. Sun and E. Yang.</em>
 </p>
+
 
 **Time**: 14:00-15:00
 
@@ -44,6 +46,7 @@
 <strong>Abstract</strong>: <em>For algebraic varieties with an action of an algebraic group, the invariant Brauer subgroup is a natural object to study the local-global principle of rational points. In this talk, I will focus on the case if the algebraic group is not necessary linear, and talk about the application of invariant Brauer subgroup to cohomological obstruction and descent method.</em>
 </p>
 
+
 **Time**: 15:30-16:30
 
 **Speaker**: 户亚青（山东大学）
@@ -53,6 +56,7 @@
 <p style="text-align: justify;">
 <strong>Abstract</strong>: <em>We give a historical survey on some functional definitions of polynomial maps in abelian and nilpotent groups.</em>
 </p>
+
 
 **Time**: 16:45-17:45
 
@@ -77,6 +81,7 @@
 <p style="text-align: justify;">
 <strong>Abstract</strong>: <em>The plectic program is proposed by Jan Nekovar and Tony Scholl to uncover some hidden symmetries of Hilbert modular varieties. It would yield exciting new results on special values of L functions once established. In this talk, I will report my work on the construction of plectic weight filtration, providing evidence of the plectic conjectures.</em>
 </p>
+
 
 **Time**: 10:30-11:30
 
