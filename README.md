@@ -20,7 +20,9 @@
 
 **Title**: *Functions in one p-adic variable*
 
-**Abstract**: *We extend the dictionary between Fontaine’s rings and p-adic functional analysis. As an application, we give a refinement of the p-adic local Langlands correspondence for principal series representations of GL_2(Q_p). This is joint work with Pierre Colmez.*
+<p style="text-align: justify;">
+<strong>Abstract</strong>: <em>We extend the dictionary between Fontaine’s rings and p-adic functional analysis. As an application, we give a refinement of the p-adic local Langlands correspondence for principal series representations of GL_2(Q_p). This is joint work with Pierre Colmez.</em>
+</p>
 
 **Time**:  11:00-12:00
 
