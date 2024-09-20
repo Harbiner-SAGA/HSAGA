@@ -20,7 +20,9 @@
 
 **Title**: *Functions in one p-adic variable*
 
+<p style="text-align: justify;">
 **Abstract**: *We extend the dictionary between Fontaine’s rings and p-adic functional analysis. As an application, we give a refinement of the p-adic local Langlands correspondence for principal series representations of GL_2(Q_p). This is joint work with Pierre Colmez.*
+</p>
 
 **Time**:  11:00-12:00
 
@@ -28,7 +30,9 @@
 
 **Title**: *Characteristic classes and conductors in motivic homotopy*
 
+<p style="text-align: justify;">
 **Abstract**: *We define and study several characteristic classes in motivic homotopy theory, and use them to deduce some conductor formulas. This is a joint work with P. Sun and E. Yang.*
+</p>
 
 **Time**: 14:00-15:00
 
@@ -44,7 +48,7 @@
 
 **Title**: *A Survey on Polynomial Maps in Groups*
 
-**Abstract**: *We give a historical survey on some functional definitions of polynomial maps in abelian and nilpotent groups. *
+**Abstract**: *We give a historical survey on some functional definitions of polynomial maps in abelian and nilpotent groups.*
 
 **Time**: 16:45-17:45
 
