@@ -4,6 +4,23 @@
 
 -----------------------------------
 
+**Date**: 2024.10.09
+
+**Time**: TBA
+
+**Venue**: online
+
+**Speaker**: 阳煜 (京都大学数理解析研究所)
+
+**Title**:  *TBA*
+
+<p style="text-align: justify;">
+<strong>Abstract</strong>:  <em>TBA.</em>
+</p>
+
+
+-----------------------------------
+
 **Date**: 2024.09.21--09.22
 
 **Venue**:  明德楼 B201-1 报告厅
