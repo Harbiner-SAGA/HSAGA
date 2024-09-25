@@ -6,7 +6,7 @@
 
 **Date**: 2024.10.09
 
-**Time**: TBA
+**Time**: 14:30-16:00
 
 **Venue**: online
 
