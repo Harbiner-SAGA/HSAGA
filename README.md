@@ -12,7 +12,7 @@
 
 **Speaker**: 陈升 (长春理工大学)
 
-**Title**:  * Arithmetic purity of strong approximation for complete toric varieties*
+**Title**:  *Arithmetic purity of strong approximation for complete toric varieties*
 
 <p style="text-align: justify;">
 <strong>Abstract</strong>:  <em>In this talk, I will discuss arithmetic purity of strong approximation: motivations and related results. Finally, for complete toric varieties, I will briefly explain my work on this topic.</em>
