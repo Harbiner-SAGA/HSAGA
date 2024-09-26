@@ -4,6 +4,23 @@
 
 -----------------------------------
 
+**Date**: 2024.10.10
+
+**Time**: 10:30-12:00
+
+**Venue**: B201
+
+**Speaker**: 陈升 (长春理工大学)
+
+**Title**:  * Arithmetic purity of strong approximation for complete toric varieties*
+
+<p style="text-align: justify;">
+<strong>Abstract</strong>:  <em>In this talk, I will discuss arithmetic purity of strong approximation: motivations and related results. Finally, for complete toric varieties, I will briefly explain my work on this topic.</em>
+</p>
+
+
+-----------------------------------
+
 **Date**: 2024.10.09
 
 **Time**: 14:30-16:00
