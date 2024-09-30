@@ -38,9 +38,11 @@
 <p style="text-align: justify;">
 <strong>Abstract</strong>:  <em>In 1996, A. Tamagawa discovered a surprising phenomenon: anabelian geometry also exists for curves over algebraically closed fields of characteristic p>0 (i.e., curves in positive characteristic can possibly be determined by their geometric fundamental groups without relying on Galois actions). However, after 28 years, only a few results have emerged in this field. </em><br>
 
-<em>In this talk, I want to explain the following insight of the speaker about fundamental groups of curves in positive characteristic: </em>
+<em>In this talk, I want to explain the following insight of the speaker about fundamental groups of curves in positive characteristic: </em><br>
 
-<em>The (admissible or geometric log etale) fundamental groups of pointed stable curves over algebraically closed fields of characteristic p can be regarded as an analogue of local moduli spaces of the curves. This observation led to the speaker discovering some new kinds of anabelian phenomena of curves in characteristic p and to formulated numerious new conjectures. For example, the following highly non-trivial anbelian results of the speaker provide strong evidence supporting this insight:</em><br>
+<em>The (admissible or geometric log etale) fundamental groups of pointed stable curves over algebraically closed fields of characteristic p can be regarded as an analogue of local moduli spaces of the curves.</em><br>
+
+<em>This observation led to the speaker discovering some new kinds of anabelian phenomena of curves in characteristic p and to formulated numerious new conjectures. For example, the following highly non-trivial anbelian results of the speaker provide strong evidence supporting this insight:</em><br>
   
 <em>• The homeomorphism conjecture holds for 1-dimensional moduli spaces (roughly speaking, this conjecture means that the moduli spaces of curves can be reconstructed group-theoretically as topological spaces).</em><br>
 
