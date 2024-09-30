@@ -31,10 +31,17 @@
 
 **Speaker**: 阳煜 (京都大学数理解析研究所)
 
-**Title**:  *TBA*
+**Title**:  *Fundamental groups of curves and local moduli*
 
 <p style="text-align: justify;">
-<strong>Abstract</strong>:  <em>TBA.</em>
+<strong>Abstract</strong>:  <em>
+In 1996, A. Tamagawa discovered a surprising phenomenon: anabelian geometry also exists for curves over algebraically closed fields of characteristic p>0 (i.e., curves in positive characteristic can possibly be determined by their geometric fundamental groups without relying on Galois actions). However, after 28 years, only a few results have emerged in this field. In this talk, I want to explain the following insight of the speaker about fundamental groups of curves in positive characteristic: The (admissible or geometric log ´etale) fundamental groups of pointed stable curves over algebraically closed fields of characteristic p can be regarded as an analogue of local moduli spaces of the curves. This observation led to the speaker discovering some new kinds of anabelian phenomena of curves in characteristic p and to formulated numerious new conjectures. For example, the following highly non-trivial anbelian results of the speaker provide strong evidence supporting this insight:
+  
+• The homeomorphism conjecture holds for 1-dimensional moduli spaces (roughly speaking, this conjecture means that the moduli spaces of curves can be reconstructed group-theoretically as topological spaces).
+
+• A new proof of Mochizuki’s famous result concerning (Isom-version) Grothendieck’s anabelian conjecture for curves over sub-p-adic fields without using Faltings’ p-adic Hodge theory.
+
+• The group-theoretical specialization conjecture holds (roughly speaking, this conjecture means that the topological and group-theoretical degeneration of curves can be completely determined by open continuous homomorphisms of dmissible fundamental groups).</em>
 </p>
 
 
