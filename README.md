@@ -4,6 +4,22 @@
 
 -----------------------------------
 
+**Date**: 2024.10.26
+
+**Time**: 10:00-12:00
+
+**Venue**: 明德楼 B201-1 报告厅
+
+**Speaker**: 李烨暄 (中北大学)
+
+**Title**:  *The relative Auslander-Reiten theory over an infinite-dimensional coalgebra*
+
+<p style="text-align: justify;">
+<strong>Abstract</strong>:  <em>In this talk, we will cover several aspects: Firstly, we will delve into the higher-dimensional Auslander-Reiten theory over an infinite-dimensional coalgebra; the finite-dimensional case by duality reduces to that of finite-dimensional algebra. We will introduce the n-transpose of a finitely n-copresented comodule and n-Auslander-Reiten translations, and then prove the n-Auslander-Reiten formula on n-cluster-tilting subcategories of comodule categories. Secondly, we will introduce the Gorenstein transpose via a minimal Gorenstein injective copresentation of a quasi-finite comodule, and explore the relations between the Gorenstein transpose of comodules and the transpose of the same comodule. As an application, we will construct the almost split sequences in terms of Gorenstein transpose. Finally, we will generalize the notion of the Auslander transpose of comodules to that of the transpose with respect to a semidualizing bicomodule T and showcase some nice homological properties of T-transpose. Additionally, we will provide a Foxby equivalence of comodule categories and investigate a characterization of T-reflexive comodules. This work is joint with Prof. Hailou Yao.</em>
+</p>
+
+-----------------------------------
+
 **Date**: 2024.10.10
 
 **Time**: 10:30-12:00
