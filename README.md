@@ -4,6 +4,22 @@
 
 -----------------------------------
 
+**Date**: 2025.01.03
+
+**Time**: 14:30-15:30
+
+**Venue**: GeWu building (Room TBD)
+
+**Speaker**: Caucher Birkar (Tsinghua University)
+
+**Title**:  *Geometry and Integers*
+
+<p style="text-align: justify;">
+<strong>Abstract</strong>:  <em>In this talk we will discuss some recent interesting connections between properties of sets of non-negative integers with different kinds of geometries. Starting with a primitive integer vector, we examine certain associated functions and relate the setting to statements in convex, toric, and birational geometries.</em>
+</p>
+
+-----------------------------------
+
 **Date**: 2024.10.26
 
 **Time**: 10:00-12:00
