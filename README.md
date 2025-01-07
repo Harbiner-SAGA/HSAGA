@@ -4,11 +4,27 @@
 
 -----------------------------------
 
+**Date**: 2025.01.09
+
+**Time**: 14:30-15:30
+
+**Venue**: Mingde Building, B201-1
+
+**Speaker**: Xiaoyu Zhang (Duisburg-Essen University)
+
+**Title**:  *Modularity of Galois representations valued in dual group of SO(n) and applications*
+
+<p style="text-align: justify;">
+<strong>Abstract</strong>:  <em>IOne of the basic ingredients in Wiles’ proof of Fermat’s Last Theorem is modularity lifting theorems of Galois representations valued in GL(2). This was further generalised by Clozel-Harris-Taylor to definite unitary groups. In this talk, I will discuss the case of definite special orthogonal groups and then talk about some potential applications in p-adic Langlands program.</em>
+</p>
+
+-----------------------------------
+
 **Date**: 2025.01.03
 
 **Time**: 14:30-15:30
 
-**Venue**: GeWu building (Room TBD)
+**Venue**: GeWu building 201
 
 **Speaker**: Caucher Birkar (Tsinghua University)
 
