@@ -15,7 +15,7 @@
 **Title**:  *Modularity of Galois representations valued in dual group of SO(n) and applications*
 
 <p style="text-align: justify;">
-<strong>Abstract</strong>:  <em>IOne of the basic ingredients in Wiles’ proof of Fermat’s Last Theorem is modularity lifting theorems of Galois representations valued in GL(2). This was further generalised by Clozel-Harris-Taylor to definite unitary groups. In this talk, I will discuss the case of definite special orthogonal groups and then talk about some potential applications in p-adic Langlands program.</em>
+<strong>Abstract</strong>:  <em>One of the basic ingredients in Wiles’ proof of Fermat’s Last Theorem is modularity lifting theorems of Galois representations valued in GL(2). This was further generalised by Clozel-Harris-Taylor to definite unitary groups. In this talk, I will discuss the case of definite special orthogonal groups and then talk about some potential applications in p-adic Langlands program.</em>
 </p>
 
 -----------------------------------
