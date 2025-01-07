@@ -8,7 +8,7 @@
 
 **Time**: 14:30-15:30
 
-**Venue**: Mingde Building, B201-1
+**Venue**: Mingde Building B201-1
 
 **Speaker**: Xiaoyu Zhang (Duisburg-Essen University)
 
