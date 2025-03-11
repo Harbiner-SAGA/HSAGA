@@ -4,6 +4,22 @@
 
 -----------------------------------
 
+**Date**: 2025.03.14
+
+**Time**: 16:00-17:00
+
+**Venue**: Mingde Building B201-1
+
+**Speaker**: Galyna Dobrovolska (Ariel University)
+
+**Title**:  *Combinatorial wall-crossing and the Mullineux involution*
+
+<p style="text-align: justify;">
+<strong>Abstract</strong>:  <em>The rational Cherednik algebra H_c is an algebra of interest in modern representation theory, which is a degeneration of the double affine Hecke algebra, introduced by Cherednik to prove Macdonald's conjectures about properties of Macdonald polynomials. For values of c lying in chambers separated by walls, representations of H_c are labeled by partitions. Combinatorial wall-crossing is a bijection from the set of irreducible representations of H_c to the set of irreducible representations of H_c', where c and c' lie in adjacent chambers separated by a wall. Combinatorial wall-crossing across one wall was proven by Losev to be equal in large positive characteristic to an extension of the Mullineux involution from modular representation theory of the symmetric group. We will exhibit interesting patterns in combinatorial wall-crossing, both proven and observed in computer experiments, and use them to prove and refine parts of a conjecture of Bezrukavnikov.</em>
+</p>
+
+-----------------------------------
+
 **Date**: 2025.01.09
 
 **Time**: 14:30-15:30
