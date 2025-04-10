@@ -4,6 +4,22 @@
 
 -----------------------------------
 
+**Date**: 2025.04.11
+
+**Time**: 09:30-10:30
+
+**Venue**: Mingde Building B201-1
+
+**Speaker**: 周海港 (同济大学)
+
+**Title**:  *Explicit computation of Fourier coefficients of Siegel Eisenstein series of degree two*
+
+<p style="text-align: justify;">
+<strong>Abstract</strong>:  <em>In this talk, for Siegel modular forms of degree two weight two, we construct a basis of its subspace of Siegel Eisenstein series of square-free level N, and compute their Fourier coefficients explicitly. In addition, we connect the theta series from Yoshida lifting associated to Eichler orders with Siegel Eisenstein series.</em>
+</p>
+
+-----------------------------------
+
 **Date**: 2025.03.14
 
 **Time**: 16:00-17:00
