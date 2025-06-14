@@ -4,6 +4,23 @@
 
 -----------------------------------
 
+**Date**: 2025.06.16
+
+**Time**: 14:30-16:00
+
+**Venue**: GeWu Building 316
+
+**Speaker**: 李上 (清华大学丘成桐数学中心)
+
+**Title**:  *Wonderful Embedding for group schemes in Bruhat--Tits theory*
+
+<p style="text-align: justify;">
+<strong>Abstract</strong>:  <em>For a reductive group G over a discretely valued Henselian field k, using valuations of root datum and concave functions, the Bruhat--Tits theory defines an important class of open bounded subgroups of G(k) which are essential objects in representation theory and arithmetic geometry. Moreover, these subgroups are uniquely determined by smooth affine group schemes whose generic fibers are $G$ over the ring of integers of k. To study these group schemes, in this talk, when G is adjoint and quasi-split, we systematically construct wonderful embedding for these group schemes which are uniquely determined by a big cell structure. The way that we construct our wonderful embedding is different from classical methods in the sense that we avoid embedding a group scheme into an ambient space and taking closure. We use an intrinsic and functorial method which is a variant of Artin--Weil method of birational group laws. Beyond the quasi-split case, our wonderful embedding is constructed by étale descent. Moreover our wonderful embedding behaves in a similar way to the classical wonderful compactification of G. Our results can serve as a bridge between the theory of wonderful compactifications and the Bruhat--Tits theory.</em>
+</p>
+
+
+-----------------------------------
+
 **Date**: 2025.04.11
 
 **Time**: 09:30-10:30
